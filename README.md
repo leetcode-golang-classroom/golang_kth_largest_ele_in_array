@@ -2,9 +2,9 @@
 
 ## 
 
-Given an integer array `nums` and an integer `k`, return *the* $`k^{th}`$ *largest element in the array*.
+Given an integer array `nums` and an integer `k`, return *the* $k^{th}$ *largest element in the array*.
 
-Note that it is the $`k^{th}`$ largest element in the sorted order, not the $`k^{th}`$ distinct element.
+Note that it is the $k^{th}$ largest element in the sorted order, not the $k^{th}$ distinct element.
 
 ## Examples
 
